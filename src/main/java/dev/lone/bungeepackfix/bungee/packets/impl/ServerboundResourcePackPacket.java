@@ -43,6 +43,7 @@ public class ServerboundResourcePackPacket extends ServerboundPacket
             PACKET_MAP.put(ProtocolConstants.MINECRAFT_1_20, 0x24);
             PACKET_MAP.put(ProtocolConstants.MINECRAFT_1_20_2, 0x27);
             PACKET_MAP.put(ProtocolConstants.MINECRAFT_1_20_3, 0x28);
+            PACKET_MAP.put(ProtocolConstants.MINECRAFT_1_20_4, 0x28);
         }
         catch (Exception ignored)
         {
